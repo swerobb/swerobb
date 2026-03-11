@@ -58,6 +58,4 @@ Features:
 - Custom hash table
 - Package tracking simulation
 
-## Contact
 
-LinkedIn: (add your LinkedIn here)
